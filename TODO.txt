@@ -11,3 +11,4 @@ Folders:
 -----/test
 --/classes
 --/jar
+------/Manifest.txt
