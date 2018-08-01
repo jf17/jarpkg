@@ -1,0 +1,13 @@
+Folders:
+
+/project_name
+-config.xml
+--/lib
+--/scr
+-----/main
+----------/java
+---------------/com
+----------/resources
+-----/test
+--/classes
+--/jar
